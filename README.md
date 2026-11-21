@@ -1,15 +1,15 @@
 <!-- ======================================================================= -->
-<!-- 01. CYBER HEADER BANNER                                                 -->
+<!-- 01. CYBER HEADER BANNER (XML-SAFE)                                      -->
 <!-- ======================================================================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=230&section=header&text=TUMBALTOK&fontSize=75&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%5B%20ROOT%20ACCESS%20GRANTED%20%7C%20OFFENSIVE%20SECURITY%20%26%20SYSTEM%20ARCHITECT%20%5D&descAlignY=62&descSize=17" alt="Cyber Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=230&section=header&text=TUMBALTOK&fontSize=75&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%5B%20ROOT%20ACCESS%20GRANTED%20%7C%20OFFENSIVE%20SECURITY%20%2B%20SYSTEM%20ARCHITECT%20%5D&descAlignY=62&descSize=16" alt="Cyber Header" />
 </p>
 
 <!-- ======================================================================= -->
-<!-- 02. LIVE TERMINAL BOOTING ANIMATION                                     -->
+<!-- 02. LIVE TERMINAL BOOTING ANIMATION (XML-SAFE)                          -->
 <!-- ======================================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=root%40tumbaltok%3A~%23+.%2Finit_blackhat_protocol.sh;%5B%2B%5D+Bypassing+Firewall...+ACCESS+GRANTED!;Cyber+Security+Enthusiast+%7C+Penetration+Tester;Full-Stack+Developer+%26+SCADA+System+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=root%40tumbaltok%3A~%23+.%2Finit_blackhat_protocol.sh;%5B%2B%5D+Bypassing+Firewall...+ACCESS+GRANTED!;Cyber+Security+Enthusiast+%7C+Penetration+Tester;Full-Stack+Developer+%2B+SCADA+System+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- ======================================================================= -->
@@ -115,34 +115,21 @@ PING [github.com/tumbaltok](https://github.com/tumbaltok) (140.82.121.4): 56 dat
   <img src="https://img.shields.io/badge/Python_Scripting-0D1117?style=flat-square&logo=python&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Laravel_Framework-0D1117?style=flat-square&logo=laravel&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Bash_Automation-0D1117?style=flat-square&logo=gnubash&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/SCADA_&_Telemetry-0D1117?style=flat-square&logo=raspberrypi&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SCADA_%26_Telemetry-0D1117?style=flat-square&logo=raspberrypi&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/MySQL_Database-0D1117?style=flat-square&logo=mysql&logoColor=00FF41" />
 </p>
 
 ---
 
 <!-- ======================================================================= -->
-<!-- 07. CLASSIFIED OPERATIONS (ACTIVE REPOSITORIES)                         -->
+<!-- 07. CLASSIFIED OPERATIONS (ANTI-DOWNTIME REPO CARDS)                    -->
 <!-- ======================================================================= -->
 ### ```[ root@tumbaltok:~# ls -la /opt/active_payloads/ ]```
 
-<p align="center">
-  <a href="https://github.com/tumbaltok/NDOK-Scada">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tumbaltok&repo=NDOK-Scada&theme=matrix&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&hide_border=true" />
-  </a>
-  <a href="https://github.com/tumbaltok/Umbulan">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tumbaltok&repo=Umbulan&theme=matrix&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tumbaltok/ShordLink">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tumbaltok&repo=ShordLink&theme=matrix&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&hide_border=true" />
-  </a>
-  <a href="https://github.com/tumbaltok/TehTawa">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tumbaltok&repo=TehTawa&theme=matrix&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&hide_border=true" />
-  </a>
-</p>
+| Payload / Repository | Deskripsi & Telemetri |
+| :--- | :--- |
+| **[`📂 NDOK-Scada`](https://github.com/tumbaltok/NDOK-Scada)**<br>Sistem akuisisi & pemantauan data SCADA berbasis Python.<br>![Lang](https://img.shields.io/github/languages/top/tumbaltok/NDOK-Scada?style=flat-square&color=00FF41&labelColor=0D1117) ![Stars](https://img.shields.io/github/stars/tumbaltok/NDOK-Scada?style=flat-square&color=00FF41&labelColor=0D1117) | **[`📂 Umbulan`](https://github.com/tumbaltok/Umbulan)**<br>Aplikasi web & layanan integrasi sistem berbasis Laravel Blade.<br>![Lang](https://img.shields.io/github/languages/top/tumbaltok/Umbulan?style=flat-square&color=00FF41&labelColor=0D1117) ![Stars](https://img.shields.io/github/stars/tumbaltok/Umbulan?style=flat-square&color=00FF41&labelColor=0D1117) |
+| **[`📂 ShordLink`](https://github.com/tumbaltok/ShordLink)**<br>Utilitas pemendek tautan & manajemen *routing* web.<br>![Size](https://img.shields.io/github/repo-size/tumbaltok/ShordLink?style=flat-square&color=00FF41&labelColor=0D1117) ![Stars](https://img.shields.io/github/stars/tumbaltok/ShordLink?style=flat-square&color=00FF41&labelColor=0D1117) | **[`📂 TehTawa`](https://github.com/tumbaltok/TehTawa)**<br>Antarmuka web interaktif berbasis HTML/CSS.<br>![Lang](https://img.shields.io/github/languages/top/tumbaltok/TehTawa?style=flat-square&color=00FF41&labelColor=0D1117) ![Stars](https://img.shields.io/github/stars/tumbaltok/TehTawa?style=flat-square&color=00FF41&labelColor=0D1117) |
 
 ---
 
@@ -151,25 +138,20 @@ PING [github.com/tumbaltok](https://github.com/tumbaltok) (140.82.121.4): 56 dat
 <!-- ======================================================================= -->
 ### ```[ root@tumbaltok:~# ./monitor_telemetry.sh --live ]```
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/tumbaltok?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/tumbaltok?label=TOTAL%20STARS&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/badge/REPOSITORIES-9%20ACTIVE-00FF41?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=00FF41" />
+</p>
+
 <!-- Cyber Contribution Wave Graph -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tumbaltok&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20CONTRIBUTION%20PULSE%20%5BTUMBALTOK%5D" alt="Contribution Graph" />
 </p>
 
-<!-- Stats & Streak Cards -->
+<!-- Streak Stats Card -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tumbaltok&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=tumbaltok&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumbaltok&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
-<!-- Cyber Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tumbaltok&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=tumbaltok&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 ---
