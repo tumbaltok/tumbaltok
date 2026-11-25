@@ -32,7 +32,7 @@
 
   <!-- Vector Star Icon -->
   <polygon points="160,150 162,154.5 167,155 163.3,158.2 164.4,163 160,160.4 155.6,163 156.7,158.2 153,155 158,154.5" fill="#FFB800"/>
-  <text x="172" y="161" class="mono" font-size="11.5" fill="#FFB800">1</text>
+  <text x="172" y="161" class="mono" font-size="11.5" fill="#FFB800">0</text>
 
   <!-- Vector Fork Icon -->
   <g stroke="#8B949E" stroke-width="1.4" fill="none" stroke-linecap="round">
