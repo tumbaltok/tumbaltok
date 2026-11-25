@@ -1,158 +1,87 @@
-<!-- ======================================================================= -->
-<!-- 01. NEURAL CYBER COMMAND DECK (SELF-HOSTED ANIMATED SVG)                -->
-<!-- ======================================================================= -->
-<p align="center">
-  <a href="https://github.com/tumbaltok">
-    <img width="100%" src="./assets/hero-command-deck.svg" alt="TUMBALTOK Neural Cyber Command Deck" />
-  </a>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=1200&color=39D353&vCenter=true&width=640&height=34&lines=tumbaltok+%E2%80%94+Security+%26+Systems+Engineer;OffSec+%2F+Full-Stack+%2F+AI+%2F+SCADA+Telemetry;Building+backends%2C+tooling+%26+automation." alt="tumbaltok" />
 </p>
 
-<!-- ======================================================================= -->
-<!-- 02. LIVE CLEARANCE & TELEMETRY BADGES                                   -->
-<!-- ======================================================================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tumbaltok&label=INTRUDERS+LOGGED&color=00FF88&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/MODE-OMNI--ARCHITECT-00FF88?style=for-the-badge&labelColor=070C14&logo=kalilinux&logoColor=00FF88" alt="Omni Architect" />
-  <img src="https://img.shields.io/badge/CLEARANCE-OMEGA%20ROOT-00E5FF?style=for-the-badge&labelColor=070C14&logo=hackthebox&logoColor=00E5FF" alt="Clearance Omega" />
-  <img src="https://img.shields.io/badge/HUD-ZERO%20DOWNTIME%20SVG-A855F7?style=for-the-badge&labelColor=070C14&logo=githubactions&logoColor=A855F7" alt="Zero Downtime HUD" />
-</p>
+Security researcher and systems engineer working across application security, backend architecture, AI automation, cloud infrastructure, and industrial SCADA telemetry.
 
-<br/>
-
-<!-- ======================================================================= -->
-<!-- 03. BENTO GRID ROW 1: SYSTEM IDENTITY + OMNI-SKILL RADAR                -->
-<!-- ======================================================================= -->
-<p align="center">
-  <img width="49%" src="./assets/bento-identity.svg" alt="System Identity Spec" />
-  <img width="49%" src="./assets/bento-radar.svg" alt="Omni-Skill Capability Radar" />
-</p>
-
-<!-- ======================================================================= -->
-<!-- 04. POLYGLOT ARSENAL MATRIX & FULL-SPECTRUM TECH STACK                  -->
-<!-- ======================================================================= -->
-<p align="center">
-  <img width="100%" src="./assets/arsenal-matrix.svg" alt="Polyglot Arsenal Matrix" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,rust,go,cpp,python,ts,react,nextjs,nodejs,php,laravel,pytorch,tensorflow,docker,kubernetes,terraform,aws,postgres,redis,mysql,bash,git,vscode&perline=12&theme=dark" alt="Full-Spectrum Tech Stack" />
-</p>
-
-<br/>
-
-<!-- ======================================================================= -->
-<!-- 05. BENTO GRID ROW 2: LIVE GITHUB TELEMETRY + RUNTIME LANGUAGES         -->
-<!-- ======================================================================= -->
-<p align="center">
-  <a href="https://github.com/tumbaltok?tab=repositories">
-    <img width="49%" src="./assets/telemetry-stats.svg" alt="Live GitHub Telemetry" />
+<p align="left">
+  <a href="https://github.com/tumbaltok?tab=followers">
+    <img src="https://img.shields.io/github/followers/tumbaltok?label=Followers&style=flat-square&color=39D353&labelColor=21262D&logo=github&logoColor=F0F6FC" alt="Followers" />
   </a>
   <a href="https://github.com/tumbaltok?tab=repositories">
-    <img width="49%" src="./assets/telemetry-languages.svg" alt="Runtime Language Distribution" />
+    <img src="https://img.shields.io/badge/Repositories-9-21262D?style=flat-square&labelColor=0D1117&logo=git&logoColor=39D353" alt="Repositories" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=tumbaltok&label=Views&color=21262D&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- ======================================================================= -->
-<!-- 06. NEURAL CONTRIBUTION MATRIX & VELOCITY SPLINE                        -->
-<!-- ======================================================================= -->
-<p align="center">
-  <img width="100%" src="./assets/contribution-pulse.svg" alt="Neural Contribution Matrix & Velocity Spline" />
-</p>
+---
 
-<br/>
+### `$ cat ~/.config/profile.ts`
 
-<!-- ======================================================================= -->
-<!-- 07. BENTO GRID ROW 3: FEATURED PAYLOADS (CLICKABLE REPO CARDS)          -->
-<!-- ======================================================================= -->
-### ```[ root@tumbaltok:~# ls -la /opt/active_payloads/ ]```
-
-<p align="center">
-  <a href="https://github.com/tumbaltok/NDOK-Scada">
-    <img width="49%" src="./assets/repo-ndok-scada.svg" alt="NDOK-Scada Repository Card" />
-  </a>
-  <a href="https://github.com/tumbaltok/Umbulan">
-    <img width="49%" src="./assets/repo-umbulan.svg" alt="Umbulan Repository Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tumbaltok/ShordLink">
-    <img width="49%" src="./assets/repo-shordlink.svg" alt="ShordLink Repository Card" />
-  </a>
-  <a href="https://github.com/tumbaltok/TehTawa">
-    <img width="49%" src="./assets/repo-tehtawa.svg" alt="TehTawa Repository Card" />
-  </a>
-</p>
-
-<br/>
-
-<!-- ======================================================================= -->
-<!-- 08. INTERACTIVE ENCRYPTED DOSSIERS (CLICK TO DECRYPT)                   -->
-<!-- ======================================================================= -->
-### ```[ root@tumbaltok:~# ./decrypt_vault.sh --interactive ]```
-
-<details>
-  <summary><b><code>[+] ./decrypt_manifesto.sh</code> — Klik untuk membuka profil &amp; filosofi arsitektur</b></summary>
-  <br/>
-
-```text
-================================================================================
-[!] DECRYPTING FILE: MANIFESTO.ENC ... 100% VERIFIED
-================================================================================
-> "Master every layer of the stack — from raw kernel packets to autonomous AI."
-
-Saya adalah pengembang sistem polyglot, arsitek perangkat lunak, dan antusias
-keamanan siber yang beroperasi lintas domain: offensive/defensive security,
-full-stack web modern, otomasi AI & LLM agents, infrastruktur cloud-native,
-serta sistem industri real-time (SCADA / OT).
-
-* [✓] Offensive Security, Red Teaming, Reverse Engineering & Zero-Trust Hardening
-* [✓] Full-Stack Architecture (TypeScript, Next.js, Python FastAPI, PHP Laravel)
-* [✓] Systems & Low-Level Engineering (Rust, Go, C/C++, eBPF, WebAssembly)
-* [✓] AI Engineering, RAG Pipelines, Computer Vision & Autonomous Agents
-* [✓] Cloud Infrastructure, Kubernetes, CI/CD & Industrial SCADA Telemetry
-================================================================================
-```
-</details>
-
-<details>
-  <summary><b><code>[+] ./scan_capabilities.sh</code> — Klik untuk membuka matriks kapabilitas lintas domain</b></summary>
-  <br/>
-
-| Kode | Domain Operasi | Cakupan Teknologi &amp; Implementasi |
-| :--- | :--- | :--- |
-| **`OP-01`** | **Offensive &amp; Defensive Security** | Penetration testing (OWASP Top 10), OSINT, binary analysis (Ghidra), packet inspection, exploit dev &amp; server hardening. |
-| **`OP-02`** | **AI, ML &amp; Autonomous Agents** | PyTorch, TensorFlow, LangChain, multi-agent orchestration, RAG &amp; VectorDB, MLOps &amp; edge inference. |
-| **`OP-03`** | **Full-Stack &amp; API Architecture** | TypeScript, React, Next.js, Node.js, Python (FastAPI), PHP (Laravel), GraphQL, REST &amp; WebSockets real-time. |
-| **`OP-04`** | **Systems, Kernel &amp; Cryptography** | Rust, Go, C/C++, Assembly (x86/ARM), eBPF observability, WebAssembly &amp; high-concurrency services. |
-| **`OP-05`** | **Cloud, Containers &amp; DevSecOps** | Kubernetes, Docker, Terraform, AWS/GCP, GitHub Actions CI/CD, Prometheus &amp; Grafana telemetry. |
-| **`OP-06`** | **SCADA, IoT &amp; Data Pipelines** | Modbus/OPC-UA, MQTT, PLC telemetry, TimescaleDB, PostgreSQL, Redis, Kafka &amp; Python data loggers. |
-
-</details>
-
-<details>
-  <summary><b><code>[+] ./verify_comms.sh</code> — Klik untuk membuka jalur komunikasi terenkripsi</b></summary>
-  <br/>
-
-```bash
-root@tumbaltok:~# ping -c 1 github.com/tumbaltok
-PING github.com/tumbaltok (140.82.121.4): 56 data bytes
-64 bytes from tumbaltok: icmp_seq=0 ttl=54 time=9.8 ms [HANDSHAKE VERIFIED]
-
-> GitHub Node     : https://github.com/tumbaltok
-> PGP Fingerprint : 4F92 88A1 C04E 77B2 [VERIFIED]
-> Transmission    : Open for security research, AI systems & full-stack collabs.
+```ts
+export const profile = {
+  handle: "tumbaltok",
+  os: "Kali Linux / Arch x86_64",
+  focus: [
+    "Application & Network Security",
+    "Full-Stack & Distributed Backends",
+    "AI Systems & Automation",
+    "SCADA / OT Telemetry",
+  ],
+  languages: ["Python", "TypeScript", "Go", "Rust", "C++", "PHP", "Bash"],
+  infra: ["Linux", "Docker", "Kubernetes", "Terraform", "AWS"],
+} as const;
 ```
 
-> Direct Link: [github.com/tumbaltok](https://github.com/tumbaltok)
+---
+
+### Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,rust,go,cpp,python,ts,react,nextjs,nodejs,php,laravel,pytorch,tensorflow,docker,kubernetes,terraform,aws,postgres,redis,mysql,bash,git,vscode&perline=12&theme=dark" alt="Tech Stack" />
+</p>
+
+<details>
+  <summary>Domain &amp; tooling breakdown</summary>
+  <br/>
+
+| Domain | Core Stack &amp; Tooling |
+| :--- | :--- |
+| **Security &amp; Research** | Kali Linux, Burp Suite, Nmap, Wireshark, Ghidra, OWASP testing, server hardening |
+| **Systems &amp; Low-Level** | Rust, Go, C/C++, Linux internals, eBPF, Bash/Zsh automation |
+| **Web &amp; Backend** | TypeScript, React, Next.js, Node.js, Python (FastAPI), PHP (Laravel), REST &amp; GraphQL |
+| **AI &amp; Automation** | PyTorch, TensorFlow, LLM orchestration, RAG pipelines, data extraction |
+| **Cloud &amp; DevOps** | Docker, Kubernetes, Terraform, AWS, GitHub Actions, Nginx |
+| **SCADA &amp; Data** | Modbus/OPC-UA, MQTT, PostgreSQL, Redis, MySQL, real-time telemetry logging |
 
 </details>
 
-<br/>
+---
 
-<!-- ======================================================================= -->
-<!-- 09. ANIMATED CYBER WAVE FOOTER                                          -->
-<!-- ======================================================================= -->
-<p align="center">
-  <img width="100%" src="./assets/footer-wave.svg" alt="Terminal Session Footer" />
+### Selected Projects
+
+| Project | Summary | Stack | Metrics |
+| :--- | :--- | :--- | :--- |
+| **[NDOK-Scada](https://github.com/tumbaltok/NDOK-Scada)** | Industrial SCADA data acquisition and telemetry logging pipeline. | `Python` | ![Stars](https://img.shields.io/github/stars/tumbaltok/NDOK-Scada?style=flat-square&color=39D353&labelColor=21262D) ![Last Commit](https://img.shields.io/github/last-commit/tumbaltok/NDOK-Scada?style=flat-square&color=21262D&labelColor=0D1117) |
+| **[Umbulan](https://github.com/tumbaltok/Umbulan)** | Web application and service integration platform. | `Laravel` `Blade` | ![Stars](https://img.shields.io/github/stars/tumbaltok/Umbulan?style=flat-square&color=39D353&labelColor=21262D) ![Last Commit](https://img.shields.io/github/last-commit/tumbaltok/Umbulan?style=flat-square&color=21262D&labelColor=0D1117) |
+| **[ShordLink](https://github.com/tumbaltok/ShordLink)** | Lightweight URL shortener and web routing service. | `PHP` `Web` | ![Stars](https://img.shields.io/github/stars/tumbaltok/ShordLink?style=flat-square&color=39D353&labelColor=21262D) ![Size](https://img.shields.io/github/repo-size/tumbaltok/ShordLink?style=flat-square&color=21262D&labelColor=0D1117) |
+| **[TehTawa](https://github.com/tumbaltok/TehTawa)** | Responsive web frontend and interactive UI showcase. | `HTML` `CSS` | ![Stars](https://img.shields.io/github/stars/tumbaltok/TehTawa?style=flat-square&color=39D353&labelColor=21262D) ![Last Commit](https://img.shields.io/github/last-commit/tumbaltok/TehTawa?style=flat-square&color=21262D&labelColor=0D1117) |
+
+---
+
+### Activity
+
+<p align="left">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tumbaltok&bg_color=0D1117&color=8B949E&line=39D353&point=F0F6FC&area=true&area_color=39D353&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
 </p>
+
+<p align="left">
+  <img height="175" src="https://streak-stats.demolab.com?user=tumbaltok&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E&stroke=21262D" alt="GitHub Streak" />
+</p>
+
+---
+
+### Contact
+
+- GitHub: [github.com/tumbaltok](https://github.com/tumbaltok)
+- PGP Fingerprint: `4F92 88A1 C04E 77B2`
